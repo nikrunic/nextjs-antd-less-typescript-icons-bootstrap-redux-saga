@@ -1,0 +1,9 @@
+{
+    "hello": "Hello From Translation",
+    "greet": "Hello, {{name}}!",
+    "world": "World",
+    "documentation": "Go To Documentation",
+    "language": {
+        "en": "🇺🇸 English"
+    }
+}
